@@ -32,7 +32,7 @@ Data Visualization Techniques
 
 
 📷 Dashboard Preview
-![Dashboard Preview] [
+![Dashboard Preview] (https://github.com/Rachaneni-MadhuSekhar/MOVIE-ANALYSIS-DASHBOARD/blob/d6a428bb2ddaf613485d590798048c022175b7ac/Screenshot%202026-05-04%20111452.png)
 
 🚀 How to Use
 Download the .pbix file from this repository
